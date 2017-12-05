@@ -1,4 +1,4 @@
-# Non.Parametric.and.Regression.Analysis.of.Sona.Reading.Data
+# Non.Parametric.&.Regression.Analysis.of.Sona.Reading.Data
 
 ## Abstract
 It is interesting to try to figure out how humans learn. The aim of this study is to figure out which factors affect a person’s ability to read more quickly, and why they lose interest while reading. Hypothesis testing using nonparametric methods, the Kruskal-Wallis technique, and regression models are tools used for analyzing these social datasets. 
